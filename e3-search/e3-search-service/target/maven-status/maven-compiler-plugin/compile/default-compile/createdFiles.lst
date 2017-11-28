@@ -1,0 +1,6 @@
+com\jisen\e3mall\search\message\MyMessageListener.class
+com\jisen\e3mall\search\message\ItemAddMessageListener.class
+com\jisen\e3mall\search\service\impl\SearchServiceImpl.class
+com\jisen\e3mall\search\dao\SearchDao.class
+com\jisen\e3mall\search\service\impl\SearchItemServiceImpl.class
+com\jisen\e3mall\search\mapper\ItemMapper.class

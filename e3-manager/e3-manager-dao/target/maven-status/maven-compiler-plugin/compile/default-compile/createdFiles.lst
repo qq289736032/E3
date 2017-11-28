@@ -1,0 +1,11 @@
+com\jisen\e3mall\mapper\TbOrderItemMapper.class
+com\jisen\e3mall\mapper\TbUserMapper.class
+com\jisen\e3mall\mapper\TbContentMapper.class
+com\jisen\e3mall\mapper\TbItemParamItemMapper.class
+com\jisen\e3mall\mapper\TbItemMapper.class
+com\jisen\e3mall\mapper\TbContentCategoryMapper.class
+com\jisen\e3mall\mapper\TbOrderMapper.class
+com\jisen\e3mall\mapper\TbItemCatMapper.class
+com\jisen\e3mall\mapper\TbItemParamMapper.class
+com\jisen\e3mall\mapper\TbOrderShippingMapper.class
+com\jisen\e3mall\mapper\TbItemDescMapper.class
